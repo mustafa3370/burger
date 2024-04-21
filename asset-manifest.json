@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/burger/static/css/main.dc40d5c2.css",
+    "main.js": "/burger/static/js/main.3000e99e.js",
+    "static/js/453.d71f3fc1.chunk.js": "/burger/static/js/453.d71f3fc1.chunk.js",
+    "static/media/—Pngtree—burger restaurant food background_2445030.jpg": "/burger/static/media/—Pngtree—burger restaurant food background_2445030.332780dee60719ddabae.jpg",
+    "static/media/logo.png": "/burger/static/media/logo.20dd7e42152361a1f3ad.png",
+    "index.html": "/burger/index.html",
+    "main.dc40d5c2.css.map": "/burger/static/css/main.dc40d5c2.css.map",
+    "main.3000e99e.js.map": "/burger/static/js/main.3000e99e.js.map",
+    "453.d71f3fc1.chunk.js.map": "/burger/static/js/453.d71f3fc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc40d5c2.css",
+    "static/js/main.3000e99e.js"
+  ]
+}
